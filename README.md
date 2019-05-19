@@ -4,5 +4,5 @@ Text classification algorithms such as logistic regression; vector space models 
 
 Detailed documentation is provided here:
 
-* [Question Answering](docs/qa.html)
+* [Question Answering](https://danielgil1.github.io/web-search-text-analysis/)
 A report enumerating the techniques used. Due to github restrictions I cannot upload pkl files and other large files to actually run the notebook. I'll be updating this website with a link to large files soon.
